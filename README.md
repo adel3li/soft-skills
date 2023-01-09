@@ -1,2 +1,2 @@
 # lifelong_learner
-This repository will be about lifelong learning
+This repository will be about lifelong learning.
