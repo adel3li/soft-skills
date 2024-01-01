@@ -39,7 +39,7 @@
 
 ---
 ### Presence and Communication
-<details>
+<details>Presence and Communication
   <summary><b>Module's Video Sessions</b></summary>
  
   - [Episode 2](https://www.youtube.com/live/h1soSJMecC8?si=8IDvOKArIprSJrF_&authuser=2)
