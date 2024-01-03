@@ -8,7 +8,7 @@
 
 ## Table of Contents
 
-- [Introduction](#Introduction🔥)
+- [Introduction](#Introduction)
 - [Presence and Communication](#___)
 - [Written Communications](#Written-Communications)
 - [Persuasion Skills](#Persuasion-Skills)
@@ -18,9 +18,9 @@
 - [Learning to Learn](#Learning-to-Learn)
 
 ---
-### Introduction🔥
+### Introduction
 <details>
-  <summary><strong>Details</strong></summary>
+  <summary><strong>...</strong></summary>
 
   - **Topics We Will Cover**
     - Topics/modules in classwork (still evolving)
