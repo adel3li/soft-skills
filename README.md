@@ -8,7 +8,7 @@
 
 ## Table of Contents
 
-- [Introduction](#Introduction)
+- [Introduction](#Introduction🔥)
 - [Presence and Communication](#___)
 - [Written Communications](#Written-Communications)
 - [Persuasion Skills](#Persuasion-Skills)
@@ -18,7 +18,7 @@
 - [Learning to Learn](#Learning-to-Learn)
 
 ---
-### Introduction :rocket:
+### Introduction🔥
 <details>
   <summary><strong>Details</strong></summary>
 
