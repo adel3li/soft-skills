@@ -8,7 +8,7 @@
 
 ## Table of Contents
 
-- [Introduction](#Introduction)
+- [Introduction](#:rocket: Introduction)
 - [Presence and Communication](#___)
 - [Written Communications](#Written-Communications)
 - [Persuasion Skills](#Persuasion-Skills)
