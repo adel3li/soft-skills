@@ -9,7 +9,7 @@
 ## Table of Contents
 
 - [Introduction](#Introduction)
-- [Presence and Communication](#   )
+- [Presence and Communication](#___)
 - [Written Communications](#Written-Communications)
 - [Persuasion Skills](#Persuasion-Skills)
 - [Feedback](#Feedback)
@@ -42,7 +42,7 @@
 </details>
 
 ---
-###    
+### ___
 <details>
   <summary><strong>Presence and Communication</strong></summary>
 
