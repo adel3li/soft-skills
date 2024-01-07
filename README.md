@@ -40,9 +40,9 @@
 ---
 ### Presence and Communication
 <details>
-  <summary>Clik to expand</summary>
+  <summary>**Module's Video Sessions**</summary>
 
-  - **Module's Video Sessions**
+  - 
     - [Episode 2](https://www.youtube.com/live/h1soSJMecC8?si=8IDvOKArIprSJrF_&authuser=2)
     - [Episode 3](https://www.youtube.com/live/qnzFVUj5hwY?si=1_XpZLhtp-VYe66L&authuser=2)
     - [Episode 4](https://www.youtube.com/live/c-gXD3Z4gM4?si=2uI0BCHefYDatcky&authuser=2)
