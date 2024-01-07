@@ -43,7 +43,7 @@
   <summary>Clik to expand</summary>
 
   - **Module's Video Sessions**
-  | Name           | Link to Episodes                   |
+    - | Name           | Link to Episodes                   |
 | -------------- | ---------------------------------- |
 | Episode 2 | [Link](https://www.youtube.com/live/h1soSJMecC8?si=8IDvOKArIprSJrF_&authuser=2)     |
 | Episode 3 | [Link](https://www.youtube.com/live/qnzFVUj5hwY?si=1_XpZLhtp-VYe66L&authuser=2)     |
