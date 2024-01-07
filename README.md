@@ -43,9 +43,9 @@
   <summary>Clik to expand</summary>
 
   - **Module's Video Sessions**
-    - | Name           | Link to Episodes                   |
+  | Name           | Link to Episodes                   |
 | -------------- | ---------------------------------- |
-| المهارات المنسية لتنمية حياتك المهنية الحلقة الثانية      | [1](https://www.youtube.com/live/h1soSJMecC8?si=8IDvOKArIprSJrF_&authuser=2)     |
+| المهارات المنسية لتنمية حياتك المهنية الحلقة الثانية      | [المهارات المنسية لتنمية حياتك المهنية الحلقة الثانية](https://www.youtube.com/live/h1soSJMecC8?si=8IDvOKArIprSJrF_&authuser=2)     |
 | Episode 2      | [https://www.youtube.com/live/qnzFVUj5hwY?si=1_XpZLhtp-VYe66L&authuser=2](#episode-2)     |
 | Episode 3      | [https://www.youtube.com/live/c-gXD3Z4gM4?si=2uI0BCHefYDatcky&authuser=2](#episode-3)     |
 
