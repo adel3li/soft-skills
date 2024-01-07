@@ -32,7 +32,9 @@
     - The importance of continual education and unlearning what holds us back (preconditioning can hinder our progress)
     - Three dimensions to track: IQ (intelligence quotient), EQ (emotional quotient), and AQ (adaptability quotient); soft skills are actually the hard part
     - Taking inventory of skills (see assigned exercise) and the importance of introspection
-
+    - **Module's Video Session**
+    - **A Timely Example of Bad Communication**
+    - **Skills Introspection Exercise (15 Minutes)**
 </details>
 
 ---
@@ -40,12 +42,29 @@
 <details>
   <summary>Clik to expand</summary>
 
-  - ****
-    - Topics/modules in classwork (still evolving)
-    - Any other topics from participants
-  - ****
+  - **Module's Video Sessions**
+    - | Name           | Link to Episodes                   |
+| -------------- | ---------------------------------- |
+| المهارات المنسية لتنمية حياتك المهنية الحلقة الثانية      | [https://www.youtube.com/live/h1soSJMecC8?si=8IDvOKArIprSJrF_&authuser=2](#episode-1)     |
+| Episode 2      | [https://www.youtube.com/live/qnzFVUj5hwY?si=1_XpZLhtp-VYe66L&authuser=2](#episode-2)     |
+| Episode 3      | [https://www.youtube.com/live/c-gXD3Z4gM4?si=2uI0BCHefYDatcky&authuser=2](#episode-3)     |
+
+  - **Presence and Communication - Assignment #1**
     - Subitem 2.1
     - Subitem 2.2
+  - **How NOT to Answer Questions at Work**
+  - **How to Own the Narrative in Meetings?**
+  - **Owning the Narrative**
+  - **The Power of Pause**
+  - **Listening and Taking Notes**
+  - **Observing Without Judgment**
+  - **Entrainment and the Dance of Conversation**
+  - **Disagreements and Hot Debates**
+  - **Answering Questions**
+  - **Asking Questions**
+  - **Standup Meetings**
+  - **1:1 Meetings**
+  - **Some Percepts to Follow**
 
 </details>
 
