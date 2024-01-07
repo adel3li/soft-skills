@@ -17,7 +17,7 @@
 - [Trust](#Trust)
 - [Learning to Learn](#Learning-to-Learn)
 
-
+---
 ### Introduction
 <details>
   <summary>Clik to expand</summary>
@@ -35,6 +35,7 @@
 
 </details>
 
+---
 ### Presence and Communication
 <details>
   <summary>Clik to expand</summary>
@@ -48,6 +49,7 @@
 
 </details>
 
+---
 ### Written Communications
 <details>
   <summary>Clik to expand</summary>
@@ -61,6 +63,7 @@
 
 </details>
 
+---
 ### Persuasion Skills
 <details>
   <summary>Clik to expand</summary>
@@ -74,7 +77,7 @@
 
 </details>
 
-
+---
 ### Feedback
 <details>
   <summary>Clik to expand</summary>
@@ -88,6 +91,7 @@
 
 </details>
 
+---
 ### Thriving in Company Culture
 <details>
   <summary>Clik to expand</summary>
@@ -101,9 +105,8 @@
 
 </details>
 
-
+---
 ### Trust
-
 <details>
   <summary>Click to expand</summary>
 
@@ -121,7 +124,7 @@
 
 </details>
 
-
+---
 ### Learning to Learn
 <details>
   <summary>Clik to expand</summary>
@@ -135,18 +138,3 @@
 
 </details>
 
-
-<!-- Section 1 -->
-
-Content for section 1
-
-<!-- Section 2 -->
-
-Content for section 2
-
-
-Section 1 content
-
----
-
-Section 2 content
