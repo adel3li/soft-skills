@@ -82,22 +82,46 @@
     - <b>*materials*</b>
       - [How to Become a Better Listener](https://hbr.org/2021/12/how-to-become-a-better-listener?authuser=2)
       - [The Art of Active Listening | The Harvard Business Review Guide](https://www.youtube.com/watch?v=aDMtx5ivKK0&authuser=2)
+  
+
+    <details>
+    <summary>Listening and Taking Notes</summary>
+    - Active listening<br>
+    - Understanding the importance of taking notes, even if no one will read them
+    - Tools and techniques to stay organized
+    - <b>Additional Resources:</b>
+      - [How to Become a Better Listener](https://hbr.org/2021/12/how-to-become-a-better-listener?authuser=2)
+      - [The Art of Active Listening | The Harvard Business Review Guide](https://www.youtube.com/watch?v=aDMtx5ivKK0&authuser=2)
+    
+
+      <details>
+      **Observing Without Judgment**
+        - Why it is hard not to judge/evaluate; it’s what we do constantly
+        - How to observe without judging
+        - Advanced topic: “Negative Capability”
+      </details>
+    </details>
   </details>
 
   <details>
-  <summary>Listening and Taking Notes</summary>
-  - Active listening<br>
-  - Understanding the importance of taking notes, even if no one will read them
-  - Tools and techniques to stay organized
-  - <b>Additional Resources:</b>
-    - [How to Become a Better Listener](https://hbr.org/2021/12/how-to-become-a-better-listener?authuser=2)
-    - [The Art of Active Listening | The Harvard Business Review Guide](https://www.youtube.com/watch?v=aDMtx5ivKK0&authuser=2)
-  </details>
+  <summary>Level 1</summary>
 
-  **Observing Without Judgment**
-    - Why it is hard not to judge/evaluate; it’s what we do constantly
-    - How to observe without judging
-    - Advanced topic: “Negative Capability”
+  - Content at Level 1
+
+  <details>
+    <summary>Level 2</summary>
+
+    - Content at Level 2
+
+    <details>
+      <summary>Level 3</summary>
+
+      - Content at Level 3
+    </details>
+  </details>
+</details>
+
+
   - **Entrainment and the Dance of Conversation**
   - Watch the first six minutes of the attached video (or finish the rest, which is also good).
 
