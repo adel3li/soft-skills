@@ -21,39 +21,6 @@
 ### Introduction
 <details>
   <summary>Topics We Will Cover</summary>
-  
-    - Topics/modules in classwork (still evolving)
-    - Any other topics from participants
-
-  <details>
-    <summary>Why Are We Talking about This</summary>
-    
-      - Your job is not the current job; it's building repeat successes and growth over time (for yourself and others around you)
-      - What employers want (e.g., reliability) and how to be so good they can't live without you
-      - The importance of building a "personal brand" intentionally (being in the driver’s seat of your career)
-      - The importance of continual education and unlearning what holds us back (preconditioning can hinder our progress)
-      - Three dimensions to track: IQ (intelligence quotient), EQ (emotional quotient), and AQ (adaptability quotient); soft skills are actually the hard part
-      - Taking inventory of skills (see assigned exercise) and the importance of introspection
-      
-    <details>
-      <summary>Module's Video Session</summary>
-
-        - [Episode](https://www.youtube.com/live/W0E4Dyz2Gvo?si=38ynDZo0zSzBRDOo&authuser=2)
-     <details>
-        <summary>A Timely Example of Bad Communication</summary>
-
-        <details>
-          <summary>Skills Introspection Exercise (15 Minutes)</summary>
-
-        </details>
-      </details>
-    </details>
-  </details>
-</details>
-
-### Introduction
-<details>
-  <summary>Topics We Will Cover</summary>
 
   - Topics/modules in classwork (still evolving)
   - Any other topics from participants
@@ -86,30 +53,38 @@
 </details>
 
 <details>
+<summary></summary>
   <details>
-  <summary>Level 1</summary>
+  <summary>Topics We Will Cover</summary>
 
-  - Content at Level 1
+  - Topics/modules in classwork (still evolving)
+  - Any other topics from participants
+
   </details>
   <details>
-  <summary>Level 2</summary>
+  <summary>Why Are We Talking about This</summary>
 
-  - Content at Level 2
+  - Your job is not the current job; it's building repeat successes and growth over time (for yourself and others around you)
+  - What employers want (e.g., reliability) and how to be so good they can't live without you
+  - The importance of building a "personal brand" intentionally (being in the driver’s seat of your career)
+  - The importance of continual education and unlearning what holds us back (preconditioning can hinder our progress)
+  - Three dimensions to track: IQ (intelligence quotient), EQ (emotional quotient), and AQ (adaptability quotient); soft skills are actually the hard part
+  - Taking inventory of skills (see assigned exercise) and the importance of introspection
+
   </details>
   <details>
-  <summary>Level 3</summary>
+  <summary>Module's Video Session</summary>
 
-  - Content at Level 3
+  - [Episode](https://www.youtube.com/live/W0E4Dyz2Gvo?si=38ynDZo0zSzBRDOo&authuser=2)
+
   </details>
   <details>
-  <summary>Level 4</summary>
+  <summary>A Timely Example of Bad Communication</summary>
 
-  - Content at Level 4
   </details>
   <details>
-  <summary>Level 5</summary>
+  <summary>Skills Introspection Exercise (15 Minutes)</summary>
 
-  - Content at Level 5
   </details>
   <details>
   <summary>Level 6</summary>
