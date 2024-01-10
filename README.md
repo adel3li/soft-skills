@@ -20,6 +20,10 @@
 ---
 ### Introduction
 <details>
+  <details>
+    <details>
+      <details>
+        <details>
   <summary><strong>...</strong></summary>
 
   - **Topics We Will Cover**
@@ -39,6 +43,10 @@
 
   - **A Timely Example of Bad Communication**
   - **Skills Introspection Exercise (15 Minutes)**
+      </details>
+      </details>
+    </details>
+  </details>
 </details>
 
 ---
