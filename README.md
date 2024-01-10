@@ -86,37 +86,37 @@
 </details>
 
 
-<details>
+- <details>
 <summary>Level 1</summary>
 
 - Content at Level 1
 
-<details>
+- <details>
 <summary>Level 2</summary>
 
 - Content at Level 2
 
-<details>
+- <details>
 <summary>Level 3</summary>
 
 - Content at Level 3
 
-<details>
+- <details>
 <summary>Level 4</summary>
 
 - Content at Level 4
 
-<details>
+- <details>
 <summary>Level 5</summary>
 
 - Content at Level 5
 
-<details>
+- <details>
 <summary>Level 6</summary>
 
 - Content at Level 6
 
-<details>
+- <details>
 <summary>Level 7</summary>
 
 - Content at Level 7
