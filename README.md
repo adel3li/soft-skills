@@ -76,7 +76,7 @@
       - [Steve Jobs once did this for 20 seconds and it became a legendary power move](https://www.theladders.com/career-advice/steve-jobs-once-did-this-for-20-seconds-and-it-became-a-legendary-power-move?authuser=2)
   <details>
     <summary>Listening and Taking Notes</summary>
-    - Active listenting
+    - Active listenting<br>
     - Why taking notes helps even if no one will read them
     - Tools and tech to stay on top of things
     - <b>*materials*</b>
