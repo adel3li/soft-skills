@@ -74,14 +74,15 @@
 
       - [Steve Jobs Insult Response - Highest Quality](https://www.youtube.com/watch?v=oeqPrUmVz-o&authuser=2)
       - [Steve Jobs once did this for 20 seconds and it became a legendary power move](https://www.theladders.com/career-advice/steve-jobs-once-did-this-for-20-seconds-and-it-became-a-legendary-power-move?authuser=2)
-
-  - **Listening and Taking Notes**
-    - Active listenting
-    - Why taking notes helps even if no one will read them
-    - Tools and tech to stay on top of things
-    - <b>*materials*</b>
-      - [How to Become a Better Listener](https://hbr.org/2021/12/how-to-become-a-better-listener?authuser=2)
-      - [The Art of Active Listening | The Harvard Business Review Guide](https://www.youtube.com/watch?v=aDMtx5ivKK0&authuser=2)
+  <details>
+    - <summary>Listening and Taking Notes</summary>
+      - Active listenting
+      - Why taking notes helps even if no one will read them
+      - Tools and tech to stay on top of things
+      - <b>*materials*</b>
+        - [How to Become a Better Listener](https://hbr.org/2021/12/how-to-become-a-better-listener?authuser=2)
+        - [The Art of Active Listening | The Harvard Business Review Guide](https://www.youtube.com/watch?v=aDMtx5ivKK0&authuser=2)
+  </details>
 
   **Observing Without Judgment**
     - Why it is hard not to judge/evaluate; it’s what we do constantly
