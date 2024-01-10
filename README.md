@@ -86,7 +86,7 @@
 </details>
 
 
-- <details>
+<details>
 <summary>Level 1</summary>
 
 - Content at Level 1
