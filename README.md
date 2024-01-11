@@ -22,7 +22,7 @@
 <details>
 <summary>...</summary>
   <details>
-  <summary>Topics We Will Cover</summary>
+  <summary><strong>Topics We Will Cover</strong></summary>
 
   - Topics/modules in classwork (still evolving)
   - Any other topics from participants
