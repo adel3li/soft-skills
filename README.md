@@ -20,7 +20,7 @@
 ---
 ### Introduction
 <details>
-<summary>...</summary>
+<summary></summary>
   <details>
   <summary><strong>Topics We Will Cover</strong></summary>
 
