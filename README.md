@@ -129,9 +129,8 @@
     - How to observe without judging
     - Advanced topic: “Negative Capability”
   </details>
-</details>
 
-
+  <details>
   - **Entrainment and the Dance of Conversation**
   - Watch the first six minutes of the attached video (or finish the rest, which is also good).
 
@@ -141,7 +140,9 @@
   - <b>*materials*</b>
     - [Entrainment and the dance of conversation | Stephanie Borrie | TEDxUSU](https://www.youtube.com/watch?v=1NG7FoC5XRo&authuser=0)
     - [An empirical study of the effect of acoustic-prosodic entrainment on the perceived trustworthiness of conversational avatars](https://arc.net/l/quote/lpvpdyrp?authuser=0)
+  </details>
 
+  <details>
   - **Disagreements and Hot Debates**
     - Why crucial and high-stakes conversations are necessary and threatening at the same time
     - Getting to yes, si, oui, … (how culture plays a big role in disagreements)
@@ -151,12 +152,27 @@
     - <b>*materials*</b>
       - [Getting to Si, Ja, Oui, Hai, and Da](https://hbr.org/2015/12/getting-to-si-ja-oui-hai-and-da?authuser=0)
       - [Never Split the Difference Cheat-Sheet](https://www.slideshare.net/YanDavidErlich/never-split-the-difference-cheatsheet?authuser=0)
+  </details>
 
+  <details>
   - **Answering Questions**
+  </details>
+
+  <details>
   - **Asking Questions**
+  </details>
+
+  <details>
   - **Standup Meetings**
+  </details>
+
+  <details>
   - **1:1 Meetings**
+  </details>
+
+  <details>
   - **Some Percepts to Follow**
+  </details>
 
 </details>
 
