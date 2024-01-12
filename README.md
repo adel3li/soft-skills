@@ -93,6 +93,7 @@
 
   <details>
   <summary><strong>Owning the Narrative</strong></summary>
+  
   - AIM: Audience, Intent, Message
   - Focused conversations (sticking to the agenda)
   - How to own the narrative when answering questions (when to use "Answer, Explain, Educate" and other techniques)
