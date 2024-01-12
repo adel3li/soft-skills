@@ -93,15 +93,15 @@
 
   <details>
   <summary><strong>Owning the Narrative</strong></summary>
-    - AIM: Audience, Intent, Message
-    - Focused conversations (sticking to the agenda)
-    - How to own the narrative when answering questions (when to use "Answer, Explain, Educate" and other techniques)
-    - Answering adversarial questions
-    - Pocket questions (especially useful for presentations)
-    - What to do when you forget what to say next
-    - <b>*materials*</b>
-      - [How to Control Your Emotions During a Difficult Conversation: The Harvard Business Review Guide](https://open.spotify.com/episode/3YaVYAh8oBqiZA4THzPCG8?authuser=2)
-      - [124. Making Meetings Meaningful, Pt. 1: How to Structure and Organize More Effective Gatherings...](https://www.youtube.com/watch?v=OntE3tCaUR0&authuser=2)
+  - AIM: Audience, Intent, Message
+  - Focused conversations (sticking to the agenda)
+  - How to own the narrative when answering questions (when to use "Answer, Explain, Educate" and other techniques)
+  - Answering adversarial questions
+  - Pocket questions (especially useful for presentations)
+  - What to do when you forget what to say next
+  - <strong>materials</strong>
+    - [How to Control Your Emotions During a Difficult Conversation: The Harvard Business Review Guide](https://open.spotify.com/episode/3YaVYAh8oBqiZA4THzPCG8?authuser=2)
+    - [124. Making Meetings Meaningful, Pt. 1: How to Structure and Organize More Effective Gatherings...](https://www.youtube.com/watch?v=OntE3tCaUR0&authuser=2)
   </details>
 
   <details>
