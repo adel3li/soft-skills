@@ -29,7 +29,7 @@
 
   </details>
   <details>
-  <summary>Why Are We Talking about This</summary>
+  <summary><strong>Why Are We Talking about This</strong></summary>
 
   - Your job is not the current job; it's building repeat successes and growth over time (for yourself and others around you)
   - What employers want (e.g., reliability) and how to be so good they can't live without you
@@ -40,17 +40,17 @@
 
   </details>
   <details>
-  <summary>Module's Video Session</summary>
+  <summary><strong>Module's Video Session</strong></summary>
 
   - [Episode](https://www.youtube.com/live/W0E4Dyz2Gvo?si=38ynDZo0zSzBRDOo&authuser=2)
 
   </details>
   <details>
-  <summary>A Timely Example of Bad Communication</summary>
+  <summary><strong>A Timely Example of Bad Communication</strong></summary>
 
   </details>
   <details>
-  <summary>Skills Introspection Exercise (15 Minutes)</summary>
+  <summary><strong>Skills Introspection Exercise (15 Minutes)</strong></summary>
 
   </details>
   <details>
@@ -69,20 +69,29 @@
 ### Presence and Communication
 <details>
   <summary><strong></strong></summary>
-  
   <details>
-  <p><strong>Module's Video Sessions</strong></p>
+  <summary><strong>Module's Video Sessions</strong></summary>
 
   - [Episode 2](https://www.youtube.com/live/h1soSJMecC8?si=8IDvOKArIprSJrF_&authuser=2)
   - [Episode 3](https://www.youtube.com/live/qnzFVUj5hwY?si=1_XpZLhtp-VYe66L&authuser=2)
   - [Episode 4](https://www.youtube.com/live/c-gXD3Z4gM4?si=2uI0BCHefYDatcky&authuser=2)
   </details>
 
+  <details>
   - **Presence and Communication - Assignment #1**
     - Subitem 2.1
     - Subitem 2.2
+  </details>
+
+  <details>
   - **How NOT to Answer Questions at Work**
+  </details>
+
+  <details>
   - **How to Own the Narrative in Meetings?**
+  </details>
+
+  <details>
   - **Owning the Narrative**
     - AIM: Audience, Intent, Message
     - Focused conversations (sticking to the agenda)
@@ -93,13 +102,17 @@
     - <b>*materials*</b>
       - [How to Control Your Emotions During a Difficult Conversation: The Harvard Business Review Guide](https://open.spotify.com/episode/3YaVYAh8oBqiZA4THzPCG8?authuser=2)
       - [124. Making Meetings Meaningful, Pt. 1: How to Structure and Organize More Effective Gatherings...](https://www.youtube.com/watch?v=OntE3tCaUR0&authuser=2)
+  </details>
 
+  <details>
   - **The Power of Pause**
     - <b>*“Between the stimulus and response, there is a space. And in that space lies our freedom and power to choose our responses. In our response lies our growth and our freedom” — Viktor Frankl*</b>
     - *Frankl founded a school of psychology, logotherapy, which promotes the ability to endure through searching for meaning. The power of pause is in leveraging it to search, for meaning, for where the other person is coming from, for what we want to achieve — to frame a response that is thoughtful and meaningful. It’s a superpower that can be trained. The first step is to observe that the situation requires a pause. Meditation and other mindfulness practices help. Perhaps the first step is to acknowledge that, just like any other skill, learning is a journey and practice is lifelong. Here’s an example of Steve Jobs pausing for almost 20 seconds, on stage, to answer a loaded question thoughtfully.*
 
       - [Steve Jobs Insult Response - Highest Quality](https://www.youtube.com/watch?v=oeqPrUmVz-o&authuser=2)
       - [Steve Jobs once did this for 20 seconds and it became a legendary power move](https://www.theladders.com/career-advice/steve-jobs-once-did-this-for-20-seconds-and-it-became-a-legendary-power-move?authuser=2)
+  </details>
+
   <details>
     <summary>Listening and Taking Notes</summary>
     - Active listenting<br>
@@ -108,50 +121,13 @@
     - <b>*materials*</b>
       - [How to Become a Better Listener](https://hbr.org/2021/12/how-to-become-a-better-listener?authuser=2)
       - [The Art of Active Listening | The Harvard Business Review Guide](https://www.youtube.com/watch?v=aDMtx5ivKK0&authuser=2)
-  
-
-    <details>
-    <summary>Listening and Taking Notes</summary>
-    - Active listening<br>
-    - Understanding the importance of taking notes, even if no one will read them
-    - Tools and techniques to stay organized
-    - <b>Additional Resources:</b>
-      - [How to Become a Better Listener](https://hbr.org/2021/12/how-to-become-a-better-listener?authuser=2)
-      - [The Art of Active Listening | The Harvard Business Review Guide](https://www.youtube.com/watch?v=aDMtx5ivKK0&authuser=2)
-    
-
-      <details>
-      **Observing Without Judgment**
-        - Why it is hard not to judge/evaluate; it’s what we do constantly
-        - How to observe without judging
-        - Advanced topic: “Negative Capability”
-      </details>
-    </details>
   </details>
 
   <details>
-  <summary>Level 1</summary>
-
-  - Content at Level 1
-    - pla pla pla
-    - pla pla pla
-      - pla pla pla
-      - pla pla 
-
-    - pla pla pla
-      - pla pla pla
-      - pla pla 
-
-  <details>
-    <summary>Level 2</summary>
-
-    - Content at Level 2
-
-    <details>
-      <summary>Level 3</summary>
-
-      - Content at Level 3
-    </details>
+  **Observing Without Judgment**
+    - Why it is hard not to judge/evaluate; it’s what we do constantly
+    - How to observe without judging
+    - Advanced topic: “Negative Capability”
   </details>
 </details>
 
