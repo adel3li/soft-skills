@@ -78,21 +78,21 @@
   </details>
 
   <details>
-  - **Presence and Communication - Assignment #1**
+    <summary><strong>Presence and Communication - Assignment #1</strong></summary>
     - Subitem 2.1
     - Subitem 2.2
   </details>
 
   <details>
-  - **How NOT to Answer Questions at Work**
+    <summary><strong>How NOT to Answer Questions at Work</strong></summary>
   </details>
 
   <details>
-  - **How to Own the Narrative in Meetings?**
+    <summary><strong>How to Own the Narrative in Meetings?</strong></summary>
   </details>
 
   <details>
-  - **Owning the Narrative**
+  <summary><strong>Owning the Narrative</strong></summary>
     - AIM: Audience, Intent, Message
     - Focused conversations (sticking to the agenda)
     - How to own the narrative when answering questions (when to use "Answer, Explain, Educate" and other techniques)
@@ -105,7 +105,7 @@
   </details>
 
   <details>
-  - **The Power of Pause**
+    <summary><strong>The Power of Pause</strong></summary>
     - <b>*“Between the stimulus and response, there is a space. And in that space lies our freedom and power to choose our responses. In our response lies our growth and our freedom” — Viktor Frankl*</b>
     - *Frankl founded a school of psychology, logotherapy, which promotes the ability to endure through searching for meaning. The power of pause is in leveraging it to search, for meaning, for where the other person is coming from, for what we want to achieve — to frame a response that is thoughtful and meaningful. It’s a superpower that can be trained. The first step is to observe that the situation requires a pause. Meditation and other mindfulness practices help. Perhaps the first step is to acknowledge that, just like any other skill, learning is a journey and practice is lifelong. Here’s an example of Steve Jobs pausing for almost 20 seconds, on stage, to answer a loaded question thoughtfully.*
 
@@ -114,7 +114,7 @@
   </details>
 
   <details>
-    <summary>Listening and Taking Notes</summary>
+    <summary><strong>Listening and Taking Notes</strong></summary>
     - Active listenting<br>
     - Why taking notes helps even if no one will read them
     - Tools and tech to stay on top of things
@@ -124,14 +124,14 @@
   </details>
 
   <details>
-  **Observing Without Judgment**
+    <summary></strong>Observing Without Judgment</strong></summary>
     - Why it is hard not to judge/evaluate; it’s what we do constantly
     - How to observe without judging
     - Advanced topic: “Negative Capability”
   </details>
 
   <details>
-  - **Entrainment and the Dance of Conversation**
+    <summary></strong>Entrainment and the Dance of Conversation</strong></summary>
   - Watch the first six minutes of the attached video (or finish the rest, which is also good).
 
   - Entrainment in speech is a form of isopraxism (mirroring) when participants in a conversation match or find a middle ground for word choices, speech rate, tone, volume, etc. Here's an excerpt from an attached study:
@@ -143,7 +143,7 @@
   </details>
 
   <details>
-  - **Disagreements and Hot Debates**
+    <summary></strong>Disagreements and Hot Debates</strong></summary>
     - Why crucial and high-stakes conversations are necessary and threatening at the same time
     - Getting to yes, si, oui, … (how culture plays a big role in disagreements)
     - Disagree and critique in private; agree and praise in public
@@ -155,23 +155,23 @@
   </details>
 
   <details>
-  - **Answering Questions**
+    <summary></strong>Answering Questions</strong></summary>
   </details>
 
   <details>
-  - **Asking Questions**
+    <summary></strong>Asking Questions</strong></summary>
   </details>
 
   <details>
-  - **Standup Meetings**
+    <summary></strong>Standup Meetings</strong></summary>
   </details>
 
   <details>
-  - **1:1 Meetings**
+    <summary></strong>1:1 Meetings</strong></summary>
   </details>
 
   <details>
-  - **Some Percepts to Follow**
+    <summary></strong>Some Percepts to Follow</strong></summary>
   </details>
 
 </details>
