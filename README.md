@@ -124,14 +124,14 @@
   </details>
 
   <details>
-    <summary></strong>Observing Without Judgment</strong></summary>
+    <summary><strong>Observing Without Judgment</strong></summary>
     - Why it is hard not to judge/evaluate; it’s what we do constantly
     - How to observe without judging
     - Advanced topic: “Negative Capability”
   </details>
 
   <details>
-    <summary></strong>Entrainment and the Dance of Conversation</strong></summary>
+    <summary><strong>Entrainment and the Dance of Conversation</strong></summary>
   - Watch the first six minutes of the attached video (or finish the rest, which is also good).
 
   - Entrainment in speech is a form of isopraxism (mirroring) when participants in a conversation match or find a middle ground for word choices, speech rate, tone, volume, etc. Here's an excerpt from an attached study:
@@ -143,7 +143,7 @@
   </details>
 
   <details>
-    <summary></strong>Disagreements and Hot Debates</strong></summary>
+    <summary><strong>Disagreements and Hot Debates</strong></summary>
     - Why crucial and high-stakes conversations are necessary and threatening at the same time
     - Getting to yes, si, oui, … (how culture plays a big role in disagreements)
     - Disagree and critique in private; agree and praise in public
@@ -155,23 +155,23 @@
   </details>
 
   <details>
-    <summary></strong>Answering Questions</strong></summary>
+    <summary><strong>Answering Questions</strong></summary>
   </details>
 
   <details>
-    <summary></strong>Asking Questions</strong></summary>
+    <summary><strong>Asking Questions</strong></summary>
   </details>
 
   <details>
-    <summary></strong>Standup Meetings</strong></summary>
+    <summary><strong>Standup Meetings</strong></summary>
   </details>
 
   <details>
-    <summary></strong>1:1 Meetings</strong></summary>
+    <summary><strong>1:1 Meetings</strong></summary>
   </details>
 
   <details>
-    <summary></strong>Some Percepts to Follow</strong></summary>
+    <summary><strong>Some Percepts to Follow</strong></summary>
   </details>
 
 </details>
