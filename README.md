@@ -340,8 +340,6 @@
 ---
 ### Learning to Learn
 <details>
-  <summary></summary>
-
   <details>
   <summary><strong></strong></summary>
 
