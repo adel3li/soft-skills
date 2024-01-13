@@ -340,7 +340,6 @@
 ---
 ### Learning to Learn
 <details>
-  <summary><strong></strong></summary>
 
   - The 70:20:10 learning framework
   - The Feynman technique
