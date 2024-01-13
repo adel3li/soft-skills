@@ -197,23 +197,44 @@
 
   <details>
   <summary><strong>The Need for Persuasion</strong></summary>
+
   - ABC: Always Be Closing
   - When to debate and when to yield and prioritize relationship-building
   - The two levels of any debate: the content and the meta
   </details>
 
   <details>
-  <summary><strong></strong></summary>
-  - 
+  <summary><strong>Pathos, Ethos, Logos, and Kairos</strong></summary>
+
+  - [The Art of Persuasion Hasn’t Changed in 2,000 Years](https://hbr.org/2019/07/the-art-of-persuasion-hasnt-changed-in-2000-years?authuser=0)
   </details>
 
   <details>
-  <summary><strong></strong></summary>
-  - 
+  <summary><strong>Cognitive Biases</strong></summary>
+
+  - Why learn them: to observe and detect; avoid falling into these traps or getting dragged into one
+  - Mitigations and fixes for these "thinking bugs"
+  - <b>*Resources*</b>
+    - [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases?authuser=0)
+    - [كتاب مصور عن المحاورة بالحيلة: المغالطات المنطقية - ترجمة صادق النمر](https://bookofbadarguments.com/ar/?authuser=0)
+    - [T H E  C O G N I T I V E  B I A S  C O D E X](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg?authuser=0)
+    - [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow?authuser=0)
+    - [المغالطات المنطقية و الانحيازات المعرفية - مع محمد الجيش](https://www.youtube.com/live/lVMqRPDF4M8?si=3Uu9XKbILf09SA-6&authuser=0)
   </details>
 
   <details>
-  <summary><strong></strong></summary>
+  <summary><strong>Clean Escalations</strong></summary>
+
+  - The different kinds of escalations (e.g., unilateral)
+  - A framework for Clean Escalations
+  - Agree/abstain/disagree and commit (you can't win all arguments)
+  - <b>*Resources*</b>
+    - [How to Escalate Disagreements Cleanly – A Coaching Conversation (7.7)](https://www.linkedin.com/pulse/how-escalate-disagreements-cleanly-coaching-77-fred-kofman/?authuser=0)
+  </details>
+
+  <details>
+  <summary><strong>Clean Escalations</strong></summary>
+
   - 
   </details>
 
