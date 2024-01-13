@@ -21,6 +21,7 @@
 ### Introduction
 <details>
 <summary></summary>
+
   <details>
   <summary><strong>Topics We Will Cover</strong></summary>
 
@@ -68,7 +69,7 @@
 ---
 ### Presence and Communication
 <details>
-  <summary><strong></strong></summary>
+<summary><strong></strong></summary>
 
   <details>
   <summary><strong>Module's Video Sessions</strong></summary>
@@ -193,7 +194,7 @@
 ---
 ### Persuasion Skills
 <details>
-  <summary>Clik to expand</summary>
+  <summary></summary>
 
   <details>
   <summary><strong>The Need for Persuasion</strong></summary>
@@ -232,31 +233,20 @@
     - [How to Escalate Disagreements Cleanly – A Coaching Conversation (7.7)](https://www.linkedin.com/pulse/how-escalate-disagreements-cleanly-coaching-77-fred-kofman/?authuser=0)
   </details>
 
-  <details>
-  <summary><strong>Clean Escalations</strong></summary>
-
-  - 
-  </details>
-
 </details>
 
 ---
 ### Written Communications
 <details>
-  <summary>Clik to expand</summary>
+  <details>
+  <summary><strong></strong></summary>
 
-  <details>
-    <summary><strong></strong></summary>
-  - 
-  </details>
-  
-  <details>
-    <summary><strong></strong></summary>
   - 
   </details>
 
   <details>
-    <summary><strong></strong></summary>
+  <summary><strong></strong></summary>
+
   - 
   </details>
 
@@ -265,61 +255,104 @@
 ---
 ### Feedback
 <details>
-  <summary>Clik to expand</summary>
+  <summary></summary>
 
-  - Topics We Will Cover
-    - Topics/modules in classwork (still evolving)
-    - Any other topics from participants
-  - Parent Item 2
-    - Subitem 2.1
-    - Subitem 2.2
+  <details>
+  <summary><strong></strong></summary>
+
+  - 
+  </details>
+
+  <details>
+  <summary><strong></strong></summary>
+
+  - 
+  </details>
+
+  <details>
+  <summary><strong></strong></summary>
+
+  - 
+  </details>
 
 </details>
 
 ---
 ### Thriving in Company Culture
 <details>
-  <summary>Clik to expand</summary>
+  <summary></summary>
 
-  - Topics We Will Cover
-    - Topics/modules in classwork (still evolving)
-    - Any other topics from participants
-  - Parent Item 2
-    - Subitem 2.1
-    - Subitem 2.2
+  <details>
+  <summary><strong>Observing Company Culture</strong></summary>
+
+  - What makes a culture
+  - Advertised vs. shadow culture (words vs. actions)
+  - Noting power dynamics (The First 90 Days)
+  </details>
+
+  <details>
+  <summary><strong>To Fit In or Not to Fit In</strong></summary>
+
+  - To fit in and adapt is not to pretend
+  - Culture osmosis goes both ways
+  - How to use company culture to advance your career
+  </details>
+
+  <details>
+  <summary><strong>Case Study: Amazon's Leadership Principles</strong></summary>
+
+  - Introduction: what makes companies different from one another
+  - Leadership Principles (Values) at Amazon
+  - How values are used in hiring, promotions, coaching, and firing
+  - <b>*Resources*</b>
+    - [Amazon's Leadership Principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles?authuser=0)
+  </details>
 
 </details>
 
 ---
 ### Trust
 <details>
-  <summary>Click to expand</summary>
+  <summary></summary>
 
-  - **Trust at Work**
-    - Various definitions depending on how you look at it
-    - The default position: whether to trust first or not until earned
-    - How to earn trust
-    - Deposit before you withdraw from trust accounts
-    - Advanced topic: how trust helps everyone in game theory
+  <details>
+  <summary><strong>Trust at Work</strong></summary>
 
-  - **Getting Others to Commit**
-    - Trying is lying - why commitments matter
-    - A framework for getting others to commit
-    - Navigating software projects' time estimation and commitments
+  - Various definitions depending on how you look at it
+  - The default position: whether to trust first or not until earned
+  - How to earn trust
+  - Deposit before you withdraw from trust accounts
+  - Advanced topic: how trust helps everyone in game theory
+  - <b>*Resources*</b>
+    - [Business is ALWAYS human](https://youtube.com/shorts/CgcheQYt3Vs?si=Cg5151EyTG9NFDKA&authuser=0)
+  </details>
+
+  <details>
+  <summary><strong>Getting Others to Commit</strong></summary>
+
+  - Trying is lying - why commitments matter
+  - A framework for getting others to commit
+  - Navigating software projects' time estimation and commitments
+  </details>
 
 </details>
 
 ---
 ### Learning to Learn
 <details>
-  <summary>Clik to expand</summary>
+  <summary></summary>
 
-  - Topics We Will Cover
-    - Topics/modules in classwork (still evolving)
-    - Any other topics from participants
-  - Parent Item 2
-    - Subitem 2.1
-    - Subitem 2.2
+  <details>
+  <summary><strong></strong></summary>
+
+  - The 70:20:10 learning framework
+  - The Feynman technique
+  - Studying tips
+  - <b>*Resources*</b>
+    - [What is the 70:20:10 model?](https://702010institute.com/702010-model/?authuser=0)
+    - [The Feynman Technique](https://www.colorado.edu/artssciences-advising/resource-library/life-skills/the-feynman-technique-in-academic-coaching?authuser=0)
+    - [Marty Lobdell - Study Less Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0&authuser=0)
+  </details>
 
 </details>
 
