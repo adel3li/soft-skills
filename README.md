@@ -340,7 +340,6 @@
 ---
 ### Learning to Learn
 <details>
-  <details>
   <summary><strong></strong></summary>
 
   - The 70:20:10 learning framework
@@ -350,7 +349,6 @@
     - [What is the 70:20:10 model?](https://702010institute.com/702010-model/?authuser=0)
     - [The Feynman Technique](https://www.colorado.edu/artssciences-advising/resource-library/life-skills/the-feynman-technique-in-academic-coaching?authuser=0)
     - [Marty Lobdell - Study Less Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0&authuser=0)
-  </details>
 
 </details>
 
