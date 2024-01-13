@@ -339,7 +339,8 @@
 
 ---
 ### Learning to Learn
-<>
+<details>
+  <summary><strong></strong></summary>
 
   - The 70:20:10 learning framework
   - The Feynman technique
@@ -349,5 +350,5 @@
     - [The Feynman Technique](https://www.colorado.edu/artssciences-advising/resource-library/life-skills/the-feynman-technique-in-academic-coaching?authuser=0)
     - [Marty Lobdell - Study Less Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0&authuser=0)
 
-</>
+</details>
 
