@@ -238,6 +238,7 @@
 ---
 ### Written Communications
 <details>
+  <summary></summary>
   <details>
   <summary><strong></strong></summary>
 
@@ -260,19 +261,30 @@
   <details>
   <summary><strong></strong></summary>
 
-  - 
+  - What it is (and what it is not), what purpose it should serve, and why we don't like it
+  - The power of reframing and changing how we think about things
+  - How to reframe feedback when receiving and giving it
   </details>
 
   <details>
   <summary><strong></strong></summary>
 
-  - 
+  - A checklist: intent, timing, rapport, context, evidence/examples, etc.
+  - A framework example: SOUL
+  - Advanced topic: giving and receiving feedback on feedback
+  - <b>*Resources*</b>
+    - [SOUL Framework for Giving Feedback](https://docs.google.com/document/d/1RXHM15ZqXgwn48h1pTC_h3IC9-6dIPsRTzA4TW4a8Dg/edit?usp=drive_web&authuser=0)
   </details>
 
   <details>
   <summary><strong></strong></summary>
 
-  - 
+  - How to open up for feedback and actually mean it
+  - Kinds of feedback and goals behind each
+  - Closing the feedback loop
+  - Advanced topic: walking the line between being misunderstood for a long time (disagreeing with feedback) and counterproductive persistence
+  - <b>*Resources*</b>
+    - [Reacting to Corrective Feedback](https://www.linkedin.com/pulse/reacting-corrective-feedback-mohamed-el-geish/?authuser=0)
   </details>
 
 </details>
