@@ -240,15 +240,26 @@
 <details>
   <summary></summary>
   <details>
-  <summary><strong></strong></summary>
+  <summary><strong>Writing = Thinking</strong></summary>
 
-  - 
+  - Why to improve writing (for software engineers)
+  - How to write an essay
+  - Frameworks and mental models for writing (e.g., SCQA)
+  - <b>*Resources*</b>
+    - [How to Write Usefully](https://www.paulgraham.com/useful.html?authuser=0)
+    - [Write Simply](https://www.paulgraham.com/simply.html?authuser=0)
+    - [SCQA: WHAT IS IT, HOW DOES IT WORK, AND HOW CAN IT HELP ME?](https://analytic-storytelling.com/scqa-what-is-it-how-does-it-work-and-how-can-it-help-me/?authuser=0)
+    - [LEADERSHIP LAB: The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM&authuser=0)
   </details>
 
   <details>
-  <summary><strong></strong></summary>
+  <summary><strong>Writing Style</strong></summary>
 
-  - 
+  - The goal of style is clarity above all
+  - Knowing the rules and knowing when to break them
+  - Read better to write better
+  - <b>*Resources*</b>
+    - [Linguistics, Style and Writing in the 21st Century - with Steven Pinker](https://www.youtube.com/watch?v=OV5J6BfToSw&authuser=0)
   </details>
 
 </details>
@@ -259,7 +270,7 @@
   <summary></summary>
 
   <details>
-  <summary><strong></strong></summary>
+  <summary><strong>Reframing Feedback</strong></summary>
 
   - What it is (and what it is not), what purpose it should serve, and why we don't like it
   - The power of reframing and changing how we think about things
@@ -267,7 +278,7 @@
   </details>
 
   <details>
-  <summary><strong></strong></summary>
+  <summary><strong>Giving Feedback</strong></summary>
 
   - A checklist: intent, timing, rapport, context, evidence/examples, etc.
   - A framework example: SOUL
@@ -277,7 +288,7 @@
   </details>
 
   <details>
-  <summary><strong></strong></summary>
+  <summary><strong>Receiving Feedback</strong></summary>
 
   - How to open up for feedback and actually mean it
   - Kinds of feedback and goals behind each
