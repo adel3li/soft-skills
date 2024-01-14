@@ -54,16 +54,7 @@
   <summary><strong>Skills Introspection Exercise (15 Minutes)</strong></summary>
 
   </details>
-  <details>
-  <summary>Level 6</summary>
 
-  - Content at Level 6
-  </details>
-  <details>
-  <summary>Level 7</summary>
-
-  - Content at Level 7
-  </details>
 </details>
 
 ---
