@@ -20,7 +20,7 @@
 ---
 ### Introduction
 <details>
-  <summary>Introduction</summary>
+  <summary><strong>Introduction</strong></summary>
 
   - **Topics We Will Cover**
     - Topics/modules in classwork (still evolving)
@@ -42,7 +42,7 @@
 </details>
 
 ---
-<details>
+### Presence and Communication <details>
   <summary><strong>Presence and Communication</strong></summary>
 
   <p><strong>Module's Video Sessions</strong></p>
