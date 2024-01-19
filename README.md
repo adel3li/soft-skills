@@ -63,7 +63,7 @@
     - Answering adversarial questions
     - Pocket questions (especially useful for presentations)
     - What to do when you forget what to say next
-    - add-ons
+    - <b>add-ons</b>
       - [How to Control Your Emotions During a Difficult Conversation: The Harvard Business Review Guide](https://open.spotify.com/episode/3YaVYAh8oBqiZA4THzPCG8?authuser=2)
       - [124. Making Meetings Meaningful, Pt. 1: How to Structure and Organize More Effective Gatherings...](https://www.youtube.com/watch?v=OntE3tCaUR0&authuser=2)
 
