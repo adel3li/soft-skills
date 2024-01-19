@@ -43,15 +43,13 @@
 
 ---
 <details>
-  <details>
-    <summary><strong>Presence and Communication</strong></summary>
+  <summary><strong>Presence and Communication</strong></summary>
 
-    <p><strong>Module's Video Sessions</strong></p>
+  <p><strong>Module's Video Sessions</strong></p>
 
-    - [Episode 2](https://www.youtube.com/live/h1soSJMecC8?si=8IDvOKArIprSJrF_&authuser=2)
-    - [Episode 3](https://www.youtube.com/live/qnzFVUj5hwY?si=1_XpZLhtp-VYe66L&authuser=2)
-    - [Episode 4](https://www.youtube.com/live/c-gXD3Z4gM4?si=2uI0BCHefYDatcky&authuser=2)
-  </details>
+  - [Episode 2](https://www.youtube.com/live/h1soSJMecC8?si=8IDvOKArIprSJrF_&authuser=2)
+  - [Episode 3](https://www.youtube.com/live/qnzFVUj5hwY?si=1_XpZLhtp-VYe66L&authuser=2)
+  - [Episode 4](https://www.youtube.com/live/c-gXD3Z4gM4?si=2uI0BCHefYDatcky&authuser=2)
 
   - **Presence and Communication - Assignment #1**
     - Subitem 2.1
@@ -61,12 +59,10 @@
   - **Owning the Narrative**
   - **The Power of Pause**
   - **Listening and Taking Notes**
-  <details>
-    <summary>Observing Without Judgment</summary>
-      - Why it is hard not to judge/evaluate; it’s what we do constantly
-      - How to observe without judging
-      - Advanced topic: “Negative Capability”
-  </details>
+  **Observing Without Judgment**
+    - Why it is hard not to judge/evaluate; it’s what we do constantly
+    - How to observe without judging
+    - Advanced topic: “Negative Capability”
   - **Entrainment and the Dance of Conversation**
   - **Disagreements and Hot Debates**
   - **Answering Questions**
