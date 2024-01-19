@@ -44,6 +44,28 @@
     - **Skills Introspection Exercise (15 Minutes)**
 </details>
 
+<details>
+  <summary>Click to expand</summary>
+
+  - **Topics We Will Cover**
+    - Topics/modules in classwork (still evolving)
+    - Any other topics from participants
+
+  - **Why Are We Talking about This**
+    - Your job is not the current job; it's building repeat successes and growth over time (for yourself and others around you)
+    - What employers want (e.g., reliability) and how to be so good they can't live without you
+    - The importance of building a "personal brand" intentionally (being in the driver’s seat of your career)
+    - The importance of continual education and unlearning what holds us back (preconditioning can hinder our progress)
+    - Three dimensions to track: IQ (intelligence quotient), EQ (emotional quotient), and AQ (adaptability quotient); soft skills are actually the hard part
+    - Taking inventory of skills (see assigned exercise) and the importance of introspection
+
+  - **Module's Video Session**
+    - [Episode](https://www.youtube.com/live/W0E4Dyz2Gvo?si=38ynDZo0zSzBRDOo&authuser=2)
+
+  - **A Timely Example of Bad Communication**
+  - **Skills Introspection Exercise (15 Minutes)**
+</details>
+
 ---
 <details>
   <details>
