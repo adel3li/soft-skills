@@ -20,7 +20,7 @@
 ---
 ### Introduction
 <details>
-  <summary>Click to expand</summary>
+  <summary>Introduction</summary>
 
   - **Topics We Will Cover**
     - Topics/modules in classwork (still evolving)
