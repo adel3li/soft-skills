@@ -97,18 +97,42 @@
 
 </details>
 
-### Trust
 ### Trust <details>
-  <summary>Clik to expand</summary>(#Trust)
+  <summary>Trust</summary>
 
-  - Topics We Will Cover
-    - Topics/modules in classwork (still evolving)
-    - Any other topics from participants
-  - Parent Item 2
-    - Subitem 2.1
-    - Subitem 2.2
+  - Trust at Work
+    - Various definitions depending on how you look at it
+    - The default position: whether to trust first or not until earned
+    - How to earn trust
+    - Deposit before you withdraw from trust accounts
+    - Advanced topic: how trust helps everyone in game theory
+  - Getting Others to Commit
+    - Trying is lying - why commitments matter
+    - A framework for getting others to commit
+    - Navigating software projects' time estimation and commitments
 
 </details>
+
+
+### Trust
+
+<details>
+  <summary>Click to expand</summary>
+
+  - **Trust at Work**
+    - Various definitions depending on how you look at it
+    - The default position: whether to trust first or not until earned
+    - How to earn trust
+    - Deposit before you withdraw from trust accounts
+    - Advanced topic: how trust helps everyone in game theory
+
+  - **Getting Others to Commit**
+    - Trying is lying - why commitments matter
+    - A framework for getting others to commit
+    - Navigating software projects' time estimation and commitments
+
+</details>
+
 
 
 ### Learning to Learn
