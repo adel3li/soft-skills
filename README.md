@@ -18,8 +18,8 @@
 - [Learning to Learn](#Learning-to-Learn)
 
 
-
-## <details>
+## 
+<details>
   <summary>Introduction</summary>
 
   - Topics We Will Cover
