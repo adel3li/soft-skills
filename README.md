@@ -31,7 +31,7 @@
 
 </details>
 
-### Introduction
+### Presence and Communication
 <details>
   <summary>Clik to expand</summary>
 
@@ -44,7 +44,7 @@
 
 </details>
 
-### Introduction
+### Written Communications
 <details>
   <summary>Clik to expand</summary>
 
@@ -57,7 +57,7 @@
 
 </details>
 
-### Introduction
+### Persuasion Skills
 <details>
   <summary>Clik to expand</summary>
 
@@ -71,7 +71,7 @@
 </details>
 
 
-### Introduction
+### Feedback
 <details>
   <summary>Clik to expand</summary>
 
@@ -84,7 +84,7 @@
 
 </details>
 
-### Introduction
+### Thriving in Company Culture
 <details>
   <summary>Clik to expand</summary>
 
@@ -97,7 +97,21 @@
 
 </details>
 
-### Introduction
+### Trust
+<details>
+  <summary>Clik to expand</summary>
+
+  - Topics We Will Cover
+    - Topics/modules in classwork (still evolving)
+    - Any other topics from participants
+  - Parent Item 2
+    - Subitem 2.1
+    - Subitem 2.2
+
+</details>
+
+
+### Learning to Learn
 <details>
   <summary>Clik to expand</summary>
 
