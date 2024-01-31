@@ -4,6 +4,15 @@
 # Forgotten skills to grow your career.
 
 
-![photo](https://lh3.googleusercontent.com/drive-storage/ANtge_HJcSHOVW8E_SmkgP4U0Zp43GOJvg_AwozHCM8QZxGfJIbb4PIsQBpcVjikS8Nrm3Yp8HBQSWvPQKEjytPNFWB_7XDoKv5mXZxCdy8MjQ=w1339-h1909)
+![Soft Skills Keywords Map](./assets/Skills%20Snapshot%202023-12-30.png)
 
-![soft skills keywords map](./assets/Skills%20Snapshot%202023-12-30.png)
+## Table of Contents
+
+- [Introduction](#Introduction)
+- [Presence and Communication](#Presence-and-Communication)
+- [Written Communications](#Written-Communications)
+- [Persuasion Skills](#Persuasion-Skills)
+- [Feedback](#Feedback)
+- [Thriving in Company Culture](#Thriving-in-Company-Culture)
+- [Trust](#Trust)
+- [Learning to Learn](#Learning-to-Learn)
