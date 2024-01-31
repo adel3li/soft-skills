@@ -18,14 +18,6 @@
 - [Learning to Learn](#Learning-to-Learn)
 
 
-<details>
-  <summary>Click to expand the list</summary>
-
-  - Item 1
-  - Item 2
-  - Item 3
-
-</details>
 
 <details>
   <summary>Introduction</summary>
