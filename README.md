@@ -28,7 +28,7 @@
 </details>
 
 <details>
-  <Introduction>Click to expand the parent list</Introduction>
+  <summary>Introduction</summary>
 
   - Topics We Will Cover
     - Topics/modules in classwork (still evolving)
