@@ -4,4 +4,4 @@
 # Forgotten skills to grow your career.
 
 
-![](README.md\assets\Skills Snapshot 2023-12-30.png)
+![](C:\Users\adel0\Documents\GitHub\soft-skills\assets\Skills Snapshot 2023-12-30.png)
