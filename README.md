@@ -18,7 +18,7 @@
 - [Learning to Learn](#Learning-to-Learn)
 
 
-<Introduction>
+<details>
   <Introduction>Click to expand the parent list</Introduction>
 
   - Topics We Will Cover
@@ -28,4 +28,4 @@
     - Subitem 2.1
     - Subitem 2.2
 
-</Introduction>
+</details>
