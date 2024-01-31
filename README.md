@@ -5,3 +5,5 @@
 
 
 ![photo](https://lh3.googleusercontent.com/drive-storage/ANtge_HJcSHOVW8E_SmkgP4U0Zp43GOJvg_AwozHCM8QZxGfJIbb4PIsQBpcVjikS8Nrm3Yp8HBQSWvPQKEjytPNFWB_7XDoKv5mXZxCdy8MjQ=w1339-h1909)
+
+![soft skills keywords map](../soft-skills/assets/Skills%20Snapshot%202023-12-30.png)
