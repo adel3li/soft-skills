@@ -19,6 +19,15 @@
 
 
 <details>
+  <summary>Click to expand the list</summary>
+
+  - Item 1
+  - Item 2
+  - Item 3
+
+</details>
+
+<details>
   <Introduction>Click to expand the parent list</Introduction>
 
   - Topics We Will Cover
