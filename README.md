@@ -18,14 +18,14 @@
 - [Learning to Learn](#Learning-to-Learn)
 
 
-<details>
-  <summary>Click to expand the parent list</summary>
+<Introduction>
+  <Introduction>Click to expand the parent list</Introduction>
 
-  - Parent Item 1
-    - Subitem 1.1
-    - Subitem 1.2
+  - Topics We Will Cover
+    - Topics/modules in classwork (still evolving)
+    - Any other topics from participants
   - Parent Item 2
     - Subitem 2.1
     - Subitem 2.2
 
-</details>
+</Introduction>
