@@ -18,9 +18,9 @@
 - [Learning to Learn](#Learning-to-Learn)
 
 
-### Introduction
+
 <details>
-  <summary>Introduction</summary>
+  <summary>### Introduction</summary>
 
   - Topics We Will Cover
     - Topics/modules in classwork (still evolving)
