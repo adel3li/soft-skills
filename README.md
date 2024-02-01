@@ -9,7 +9,7 @@
 ## Table of Contents
 
 - [Introduction](#Introduction)
-- [Presence and Communication](#___)
+- [Presence and Communication](#Presence and Communication)
 - [Written Communications](#Written-Communications)
 - [Persuasion Skills](#Persuasion-Skills)
 - [Feedback](#Feedback)
@@ -88,6 +88,12 @@
     - How to observe without judging
     - Advanced topic: “Negative Capability”
   - **Entrainment and the Dance of Conversation**
+  - Watch the first six minutes of the attached video (or finish the rest, which is also good).
+
+  - Entrainment in speech is a form of isopraxism (mirroring) when participants in a conversation match or find a middle ground for word choices, speech rate, tone, volume, etc. Here's an excerpt from an attached study:
+
+    "A phenomenon that has been repeatedly documented in human-human conversations is the tendency of interlocutors to become more similar to each other in the way they speak. This behavior, known in the literature as entrainment, accommodation or adaptation, has been shown to occur along several dimensions during human-human interaction, including: pronunciation (Pardo, 2006); choice of referring expressions (Brennan and Clark, 1996); syntactic structure (Reitter et al., 2011); turn-taking cues (Levitan et al., 2015b); choice of intonational contour (Gravano et al., 2015); and acoustic-prosodic behavior (Ward, Litman, 2007, Levitan, Hirschberg, 2011)... Entrainment has been associated with multiple social aspects in human-human conversations (Beňuš, 2014), such as degree of success in completing tasks (Nenkova, Gravano, Hirschberg, 2008, Reitter, Moore, 2014), perception of competence and social attractiveness (Street Jr, 1984, Levitan, Gravano, Hirschberg, 2011, Beňuš, Gravano, Levitan, Levitan, Willson, Hirschberg, 2014, Michalsky, Schoormann, 2017, Schweitzer, Lewandowski, 2014), and degree of speaker engagement (De Looze, Scherer, Vaughan, Campbell, 2014, Gravano, Beňuš, Levitan, Hirschberg, 2015)."
+
   - **Disagreements and Hot Debates**
   - **Answering Questions**
   - **Asking Questions**
