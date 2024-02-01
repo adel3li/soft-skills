@@ -42,9 +42,9 @@
 </details>
 
 ---
-### ___
+### Presence and Communication
 <details>
-  <summary><strong>Presence and Communication</strong></summary>
+  <summary><strong>...</strong></summary>
 
   <p><strong>Module's Video Sessions</strong></p>
 
