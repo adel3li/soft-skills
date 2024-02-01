@@ -65,7 +65,6 @@
     - Pocket questions (especially useful for presentations)
     - What to do when you forget what to say next
     - <b>*materials*</b>
-
       - [How to Control Your Emotions During a Difficult Conversation: The Harvard Business Review Guide](https://open.spotify.com/episode/3YaVYAh8oBqiZA4THzPCG8?authuser=2)
       - [124. Making Meetings Meaningful, Pt. 1: How to Structure and Organize More Effective Gatherings...](https://www.youtube.com/watch?v=OntE3tCaUR0&authuser=2)
 
@@ -106,7 +105,7 @@
     - Negotiations: Never Split the Difference
     - <b>*materials*</b>
       - [Getting to Si, Ja, Oui, Hai, and Da](https://hbr.org/2015/12/getting-to-si-ja-oui-hai-and-da?authuser=0)
-      - [An empirical study of the effect of acoustic-prosodic entrainment on the perceived trustworthiness of conversational avatars](https://www.slideshare.net/YanDavidErlich/never-split-the-difference-cheatsheet?authuser=0)
+      - [Never Split the Difference Cheat-Sheet](https://www.slideshare.net/YanDavidErlich/never-split-the-difference-cheatsheet?authuser=0)
 
   - **Answering Questions**
   - **Asking Questions**
