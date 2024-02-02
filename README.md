@@ -1,8 +1,6 @@
 # المهارات المنسية لتنمية حياتك المهنية.
 
-## Shout-Out to 🙏
-### [Mohamed El-Geish](https://x.com/elgeish)
-### [Ahmed Essam](https://x.com/ahmd3ssam)
+## This repo is a clone of a [Classroom(.المهارات المنسية لتنمية حياتك المهنية)](https://classroom.google.com/u/1/c/NjUwNDU4ODAwMTUx) made by [Mohamed El-Geish](https://x.com/elgeish) and [Ahmed Essam](https://x.com/ahmd3ssam), all gratitude for their dedication and efforts.
 
 # Forgotten skills to grow your career.
 
