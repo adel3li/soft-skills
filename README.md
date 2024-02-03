@@ -68,7 +68,7 @@
       - [124. Making Meetings Meaningful, Pt. 1: How to Structure and Organize More Effective Gatherings...](https://www.youtube.com/watch?v=OntE3tCaUR0&authuser=2)
 
   - **The Power of Pause**
-    - *“Between the stimulus and response, there is a space. And in that space lies our freedom and power to choose our responses. In our response lies our growth and our freedom” — Viktor Frankl*
+    - <b>*“Between the stimulus and response, there is a space. And in that space lies our freedom and power to choose our responses. In our response lies our growth and our freedom” — Viktor Frankl*</b>
     - Frankl founded a school of psychology, logotherapy, which promotes the ability to endure through searching for meaning. The power of pause is in leveraging it to search, for meaning, for where the other person is coming from, for what we want to achieve — to frame a response that is thoughtful and meaningful. It’s a superpower that can be trained. The first step is to observe that the situation requires a pause. Meditation and other mindfulness practices help. Perhaps the first step is to acknowledge that, just like any other skill, learning is a journey and practice is lifelong. Here’s an example of Steve Jobs pausing for almost 20 seconds, on stage, to answer a loaded question thoughtfully.
 
       - [Steve Jobs Insult Response - Highest Quality
