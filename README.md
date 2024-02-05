@@ -49,9 +49,22 @@
   <details>
   <summary><strong>A Timely Example of Bad Communication</strong></summary>
 
+  - Henry Ward is the CEO of Carta, a company that helps startups keep track of equity ownership, which is highly confidential data. One of Carta's customers, Karri, complained publicly on X.com that Carta is using customers' confidential data to sell a new Carta product. Read Henry's response and choose the best course of action if you were Henry:
+  - [Henry Ward on X](https://x.com/henrysward/status/1743794996732735679?s=20&authuser=1)
+
+    - Karri accused Carta publicly so Henry should counter-attack publicly as well
+    - Come up with excuses that no company is perfect and Carta will do better in the future
+    - Offer Karri a refund and free services for a year
+    - Rebuild trust by conducting an investigation and share apology, findings, and mitigations publicly
+    - Say nothing at all and hope that the news cycle moves on to another company's fiasco
+
   </details>
   <details>
   <summary><strong>Skills Introspection Exercise (15 Minutes)</strong></summary>
+
+  - Please fill out the attached form.
+Important Note: Assignments are mandatory. Failing to submit an assignment will result in giving up your seat in this classroom. We have very limited capacity and we would like to focus on engaged attendees. Thanks!
+  - [Skills Introspection Exercise (15 Minutes)](https://docs.google.com/forms/d/e/1FAIpQLScEYqf4H96AkvN_bmABx2MbPXrii_KHHOW63_KwSVG08Kzukw/viewform?hr_submission=ChkIqqHQ6_cSEhAIwZf__OgSEgcIl8D2kvcSEAE&authuser=1)
 
   </details>
 
