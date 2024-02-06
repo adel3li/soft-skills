@@ -1,6 +1,6 @@
 # المهارات المنسية لتنمية حياتك المهنية.
 
-## Shout out to 
+## SHOUT-OUT to 
 ### [Mohamed El-Geish](https://x.com/elgeish)
 ### [Ahmed Essam](https://x.com/ahmd3ssam)
 
