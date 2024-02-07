@@ -1,5 +1,8 @@
 # المهارات المنسية لتنمية حياتك المهنية.
 
+## Shout out to 
+### [Mohamed El-Geish](https://x.com/elgeish)
+### [Ahmed Essam](https://x.com/ahmd3ssam)
 
 # Forgotten skills to grow your career.
 
