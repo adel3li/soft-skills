@@ -155,9 +155,9 @@ Important Note: Assignments are mandatory. Failing to submit an assignment will 
   <details>
     <summary><strong>Observing Without Judgment</strong></summary>
 
-    - Why it is hard not to judge/evaluate; it’s what we do constantly
-    - How to observe without judging
-    - Advanced topic: “Negative Capability”
+  - Why it is hard not to judge/evaluate; it’s what we do constantly
+  - How to observe without judging
+  - Advanced topic: “Negative Capability”
   </details>
 
   <details>
