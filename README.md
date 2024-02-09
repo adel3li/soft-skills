@@ -52,6 +52,8 @@
   - Henry Ward is the CEO of Carta, a company that helps startups keep track of equity ownership, which is highly confidential data. One of Carta's customers, Karri, complained publicly on X.com that Carta is using customers' confidential data to sell a new Carta product. Read Henry's response and choose the best course of action if you were Henry:
   - [Henry Ward on X](https://x.com/henrysward/status/1743794996732735679?s=20&authuser=1)
 
+  - <b>*Choices*</b>
+  
     - Karri accused Carta publicly so Henry should counter-attack publicly as well
     - Come up with excuses that no company is perfect and Carta will do better in the future
     - Offer Karri a refund and free services for a year
@@ -85,17 +87,33 @@ Important Note: Assignments are mandatory. Failing to submit an assignment will 
 
   <details>
     <summary><strong>Presence and Communication - Assignment #1</strong></summary>
-    - Subitem 2.1
-    - Subitem 2.2
+
+    - Please fill out the quiz form and turn in the assignment. For the assignment to count, you have to turn it in. Thanks!
+
+    - [Presence and Communication - Assignment #1](https://docs.google.com/forms/d/e/1FAIpQLSeQy2s-8mBm7pyNqsJaCbIA-kBTc9_4xXgQ-MJxVWKpSQnoRg/viewform?hr_submission=ChkIqqHQ6_cSEhAI06LHm_kSEgcIl8D2kvcSEAA&authuser=1)
+
+    - <b>*Resources*</b>
+      - [Episode 2](https://www.youtube.com/live/h1soSJMecC8?si=8IDvOKArIprSJrF_&authuser=2)
+
   </details>
 
   <details>
     <summary><strong>How NOT to Answer Questions at Work</strong></summary>
 
+    - Watch the attached video. If this were a conversation at work about the estimate of days a task would take, what can be done better?
+
+    - <b>*Resources*</b>
+      - [Piers Morgan SLAMS Israeli Spokesman's Claim To Have Killed "1000s Of Terrorists"](https://www.youtube.com/watch?v=NpFbD0eTrB4&authuser=1)
+
   </details>
 
   <details>
     <summary><strong>How to Own the Narrative in Meetings?</strong></summary>
+
+    - Listen to the attached podcast episode. Based on the material, what’s a good way to handle disruptions in the flow of meetings/conversations?
+
+    - <b>*Resources*</b>
+      - [124. Making Meetings Meaningful, Pt. 1: How to Structure and Organize More Effective Gatherings...](https://open.spotify.com/episode/3YaVYAh8oBqiZA4THzPCG8?authuser=1)
 
   </details>
 
@@ -171,25 +189,50 @@ Important Note: Assignments are mandatory. Failing to submit an assignment will 
   <details>
     <summary><strong>Answering Questions</strong></summary>
 
+  - Listening to understand, not to respond
+  - Asking clarifying questions before answering
+  - Answer, Explain, Educate
+  - Advanced topic: challenging the premise of statements disguised as questions and reframing traps
+
   </details>
 
   <details>
     <summary><strong>Asking Questions</strong></summary>
+
+  - You can sound stupid once
+  - One of the most dangerous phrases in business: "I assumed"
+  - Soliciting "Answer, Explain, Educate" from others
 
   </details>
 
   <details>
     <summary><strong>Standup Meetings</strong></summary>
 
+  - Why do we have standup meetings
+  - Mental models: describe your mental model of how a standup is run (e.g., inputs and outputs)
+  - How to present your work effectively (e.g., tell me the time; don't build me the clock)
+  - How to say you are blocked on someone without throwing them under the bus
+  - Advanced discussion: the spotlight effect
+  - Advanced discussion: how to suggest improvements to your team's standup/agile processes
+
   </details>
 
   <details>
     <summary><strong>1:1 Meetings</strong></summary>
 
+  - Why spend time one-on-one
+  - Agenda and goals of conversations
+  - Building rapport (e.g., managing up and sideways)
+  - The emotional bank of trust
+
   </details>
 
   <details>
     <summary><strong>Some Percepts to Follow</strong></summary>
+
+  - Don’t say anything you wouldn’t say in front of your grandmother
+  - Silence is golden; we have two ears and one mouth for a reason
+  - Feynman’s Razor: complexity and jargon are used to mask a lack of deep understanding
 
   </details>
 
