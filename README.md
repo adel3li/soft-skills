@@ -88,32 +88,32 @@ Important Note: Assignments are mandatory. Failing to submit an assignment will 
   <details>
     <summary><strong>Presence and Communication - Assignment #1</strong></summary>
 
-    - Please fill out the quiz form and turn in the assignment. For the assignment to count, you have to turn it in. Thanks!
+  - Please fill out the quiz form and turn in the assignment. For the assignment to count, you have to turn it in. Thanks!
 
-    - [Presence and Communication - Assignment #1](https://docs.google.com/forms/d/e/1FAIpQLSeQy2s-8mBm7pyNqsJaCbIA-kBTc9_4xXgQ-MJxVWKpSQnoRg/viewform?hr_submission=ChkIqqHQ6_cSEhAI06LHm_kSEgcIl8D2kvcSEAA&authuser=1)
+  - [Presence and Communication - Assignment #1](https://docs.google.com/forms/d/e/1FAIpQLSeQy2s-8mBm7pyNqsJaCbIA-kBTc9_4xXgQ-MJxVWKpSQnoRg/viewform?hr_submission=ChkIqqHQ6_cSEhAI06LHm_kSEgcIl8D2kvcSEAA&authuser=1)
 
-    - <b>*Resources*</b>
-      - [Episode 2](https://www.youtube.com/live/h1soSJMecC8?si=8IDvOKArIprSJrF_&authuser=2)
+  - <b>*Resources*</b>
+    - [Episode 2](https://www.youtube.com/live/h1soSJMecC8?si=8IDvOKArIprSJrF_&authuser=2)
 
   </details>
 
   <details>
     <summary><strong>How NOT to Answer Questions at Work</strong></summary>
 
-    - Watch the attached video. If this were a conversation at work about the estimate of days a task would take, what can be done better?
+  - Watch the attached video. If this were a conversation at work about the estimate of days a task would take, what can be done better?
 
-    - <b>*Resources*</b>
-      - [Piers Morgan SLAMS Israeli Spokesman's Claim To Have Killed "1000s Of Terrorists"](https://www.youtube.com/watch?v=NpFbD0eTrB4&authuser=1)
+  - <b>*Resources*</b>
+    - [Piers Morgan SLAMS Israeli Spokesman's Claim To Have Killed "1000s Of Terrorists"](https://www.youtube.com/watch?v=NpFbD0eTrB4&authuser=1)
 
   </details>
 
   <details>
     <summary><strong>How to Own the Narrative in Meetings?</strong></summary>
 
-    - Listen to the attached podcast episode. Based on the material, what’s a good way to handle disruptions in the flow of meetings/conversations?
+  - Listen to the attached podcast episode. Based on the material, what’s a good way to handle disruptions in the flow of meetings/conversations?
 
-    - <b>*Resources*</b>
-      - [124. Making Meetings Meaningful, Pt. 1: How to Structure and Organize More Effective Gatherings...](https://open.spotify.com/episode/3YaVYAh8oBqiZA4THzPCG8?authuser=1)
+  - <b>*Resources*</b>
+    - [124. Making Meetings Meaningful, Pt. 1: How to Structure and Organize More Effective Gatherings...](https://open.spotify.com/episode/3YaVYAh8oBqiZA4THzPCG8?authuser=1)
 
   </details>
 
